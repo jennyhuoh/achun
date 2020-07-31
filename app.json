@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "MOOD.PIXEI",
+    "slug": "beokproj",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/mood.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#05495D"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "",
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "MOOD.PIXIE",
+  "name": "mood"
+}
